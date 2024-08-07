@@ -1,6 +1,6 @@
 # ValorantExecuter
 A kernal level Volrant Cheat featuring Aimbot, Tracers, Radar and more.
-
+## NOT CURRENTLY UPDATED DONT BOTHER RUNNING
 ## THERE IS NO GUI ONLY CONFIG
 ## WARNING DO NOT USE YOUR MAIN ACCOUNT YOU WILL BE BANNED IF ABUSED
 
