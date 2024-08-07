@@ -34,7 +34,6 @@ A kernal level Volrant Cheat featuring Aimbot, Tracers, Radar and more.
 
 ### SKINCHANGER
 -Inventory Skinchanger
--Spoiler
 -Gunbuddies
 ### Misc
 -Bunnyhop
