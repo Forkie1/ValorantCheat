@@ -1,4 +1,4 @@
-# 🛑 ValorantExecuter 🛑
+# 🛑 Valorant Cheat 🛑
 A kernal level Volrant Cheat featuring Aimbot, Tracers, Radar and more.
 
 ## 🛑THERE IS NO GUI ONLY CONFIG🛑
